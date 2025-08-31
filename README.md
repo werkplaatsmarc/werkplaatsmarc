@@ -25,7 +25,7 @@ Gevestigd in België
 Alle projecten hier hebben Nederlandse video tutorials op mijn YouTube kanaal Werkplaats Marc.
 Van concept tot werkend eindresultaat, stap voor stap uitgelegd!
 
-Elke week nieuwe video - van Arduino basics tot geavanceerde combinaties.
+Elke week nieuwe video van Arduino basics tot geavanceerde combinaties.
 
 ## Contact
 
